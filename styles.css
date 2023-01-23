@@ -5,3 +5,8 @@
     color: white;
     border-collapse: collapse;
 }
+.table-dark{
+	background-color: black;
+	color: white;
+	border-collapse: collapse;
+}
